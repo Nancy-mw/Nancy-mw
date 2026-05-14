@@ -39,11 +39,11 @@ Machine Learning | Data Analysis | Data Visualization
 * Creating interactive dashboards.
 
 ---
-## 🌱 I’m currently learning:
+## I’m currently learning:
 * Power BI.
 * Data pipelines and workflows.
 
-## 📫 Contact Me
+## Contact Me
 
 * Email: wanyinginancy@gmail.com
 * LinkedIn: www.linkedin.com/in/nancy-wanyingi-962441330
