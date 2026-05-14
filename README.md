@@ -1,12 +1,12 @@
 ## Hi there, I'm Nancy👋
 
-🎓 Data Science Student.
-💡 Passionate about Machine Learning, AI & Data Analytics
-🚀 Building real-world data-driven solutions
+🔹 Data Science Student.
+🔹 Passionate about Machine Learning, AI & Data Analytics
+🔹 Building real-world data-driven solutions
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 🔹 Football Match Prediction System: 
 Predicts match outcomes using machine learning and analytics.
@@ -22,7 +22,7 @@ Classifies emails using NLP and machine learning.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 Languages & Tools:
 Python | SQL | Excel 
@@ -32,11 +32,11 @@ Machine Learning | Data Analysis | Data Visualization
 
 ---
 
-## 📈 What I'm Working On
+## What I'm Working On
 
-* 🚀Building real-world ML projects.
-* 🔍Improving predictive modeling skills.
-* 📊Creating interactive dashboards.
+* Building real-world ML projects.
+* Improving predictive modeling skills.
+* Creating interactive dashboards.
 
 ---
 ## 🌱 I’m currently learning:
@@ -45,6 +45,6 @@ Machine Learning | Data Analysis | Data Visualization
 
 ## 📫 Contact Me
 
-* 📧Email: wanyinginancy@gmail.com
-* 💼LinkedIn: www.linkedin.com/in/nancy-wanyingi-962441330
+* Email: wanyinginancy@gmail.com
+* LinkedIn: www.linkedin.com/in/nancy-wanyingi-962441330
 
